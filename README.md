@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BOULMANE Abderrahman</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate Frontend Developer from Morocco</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abderrahman2002&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahman2002" />
@@ -7,13 +7,43 @@
 
 ---
 
-- 🔭 I’m currently working on **Bakery Project**
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Bootstrap and Laravel**
+Hello! My name is **Abderrahman BOULMANE**, a dedicated and passionate frontend developer with a strong foundation in web development. My journey into coding started with a fascination for how websites are built and the logic behind their functionality. Over the years, I have honed my skills in various programming languages and frameworks, focusing primarily on **frontend technologies**. 
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, React, Laravel**
+I am particularly passionate about creating beautiful, user-friendly interfaces and solving real-world problems through technology. I enjoy working in collaborative environments where I can both contribute to and learn from others.
 
-- 📫 How to reach me: **abdearahmanbolman@gmail.com**
+I believe in continuous learning and staying updated with the latest trends and best practices in the industry. Whether it's crafting responsive web designs, working with advanced tools, or collaborating on projects, I strive to deliver the best results.
+
+Here are a few highlights about me:
+- 🔭 I’m currently working with a team in collaboration on **Pharmacy System Management (PSM)**.
+- 🌱 I’m expanding my expertise by learning **React** and **Laravel** to build dynamic and robust applications.
+- 💬 I am always open to discussing **HTML, CSS, Bootstrap, React, Laravel**, and other frontend technologies.
+- 🎯 My goal is to become a full-stack developer, bridging the gap between frontend and backend systems.
+
+In my free time, I enjoy reading about the latest trends in technology, experimenting with new tools, and contributing to open-source projects. I also like exploring how design and development intersect to create seamless user experiences.
+
+---
+
+### 📫 How to Reach Me:
+If you'd like to collaborate on a project, discuss ideas, or just say hi, feel free to connect with me:
+- 📧 Email: **abdearahmanbolman@gmail.com**
+- 🌐 LinkedIn: [https://www.linkedin.com/in/abderrahman-bolmane-427b91245/](#) *(Add your actual LinkedIn link)*
+
+---
+
+### 🛠️ My Tech Stack:
+
+Here are some of the tools and technologies I frequently work with:
+
+- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
+- **Backend Development**: PHP, Laravel  
+- **Database**: MySQL  
+- **Tools**: Git, GitHub, GitLab, Linux, Canva, Photoshop  
+- **Programming Languages**: C++, Python  
+- **DevOps**: Docker, CI/CD pipelines  
+- **Other Interests**: Responsive Design, UI/UX, Open Source Contributions  
+
 
 ---
 
