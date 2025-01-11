@@ -122,14 +122,10 @@ I work with the following tools and technologies to bring your ideas to life:
 </p>
 
 ---
-
 <h3 align="center">GitHub Stats:</h3>
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahman2002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abderrahman2002&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahman2002&" alt="GitHub Streak" />
-</p>
+</div>
+
